@@ -21,3 +21,9 @@
   width: 200px;
   height: 400px;
 } */
+
+/*! chaining */
+/* .class.second-class: Targets elements that have both class and second-class simultaneously. */
+
+/*! descendant */
+/* .class .second-class: Targets .second-class elements that are descendants of .class elements. */
